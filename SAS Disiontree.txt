@@ -1,0 +1,11 @@
+Dicistion Tree
+1 InerActive กำหนดการแตกกิ่งเอง
+	1. จำนวนครั้งที่บริจาคในรอบ 36 เดือน
+	2. ราคาบ้าน ใช้ ค่ากลาง เพราะราคาบ้านมความแตกต่างกันเยอะ
+
+User Digram 
+
+	1.Data 
+	2.Replacement
+	3. แบ่ง Data
+	4.Dicision Tree
