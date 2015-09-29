@@ -9,3 +9,13 @@ User Digram
 	2.Replacement
 	3. แบ่ง Data
 	4.Dicision Tree
+   
+ภาษา R 
+Dicission Tree 
+IRIS 
+- ดูแนวโน้มข้อมูล
+- แบ่งข้อมูล ดูเป็นการฟ ใส่สีได้ด้วย
+- ดู box plot ของทั้ง 3 สายพันธุ์
+Text  Mining 
+Load Package()
+Read()
